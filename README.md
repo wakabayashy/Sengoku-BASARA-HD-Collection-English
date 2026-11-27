@@ -38,7 +38,7 @@ No completion percentage is published because the current overall figure has not
 
 ## Testing and Feedback
 
-A public Beta has not been announced. Future testing information will be shared through the team Discord when the project is ready.
+A public Beta has not been announced. Future testing information will be shared through my Discord server when the project is ready.
 
 Useful reports should include:
 
@@ -58,7 +58,7 @@ No public patch download is announced in this repository at this time.
 
 ## Credits
 
-**Team / project release:** wakabayashy
+**Project / release:** wakabayashy
 
 Further contributor credits will be added as the project develops and roles are confirmed.
 
